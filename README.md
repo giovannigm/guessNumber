@@ -1,3 +1,0 @@
-### Technologies used
-- Html
-- JavaScript
